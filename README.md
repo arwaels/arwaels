@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Arwa Elsayed
--  I’m interested in the application of software in the field of biomedical engineering.
-- I’m currently learning embedded software and AI, with basic knowledge on C++, Python and Arduino.
+# Hi, I’m Arwa Elsayed 👋 
+##  I’m interested in the application of software in the field of biomedical engineering.
+###### Currently learning: embedded software and AI, with basic knowledge on C++, Python and Arduino.
 - You can reach me on: linkedin.com/in/arwa-elsayed/ 
 
 <!---
